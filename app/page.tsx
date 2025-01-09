@@ -1,6 +1,15 @@
+"use client"
+
+import CardComponents from "@/components/card"
+
+
 export default function Homepage() {
   return (
-    <h1>Home Page</h1>
+    <div className="w-full h-screen flex justify-center items-center">
+
+    <CardComponents/>
+
+    </div>
   )
 
 }
