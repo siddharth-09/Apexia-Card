@@ -1,6 +1,6 @@
 "use client"
 
-import CardComponents from "@/components/card"
+import CardComponents from "@/components/card.jsx"
 
 
 export default function Homepage() {
